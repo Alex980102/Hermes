@@ -1,0 +1,41 @@
+version: "3"
+services:
+  # whats_main:
+  #   build: whats_main
+  #   ports:
+  #     - "3000:3000"
+  #   depends_on:
+  #     - mongo
+  #   volumes:
+  #     - ./whats_main:/usr/src/app
+  #     - /usr/src/app/node_modules
+  #   environment:
+  #     - PORT=3000
+  #     - MONGO_URI=mongodb://192.168.1.78:27017/auth_services
+  #     - API_PREFIX=api/auth
+  #     - JWT_KEY=$2b$10$kCdZlBA3iz1iSqNBQNzRSOmZLYmtT4eDDMRbTGM9/VfL1Ru41KuCO
+  #     - PORT=3000
+  #     - MONGO_URI=mongodb://localhost:27017/hermes
+  openai_api:
+    build:
+      context: ./openai_api
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - REDIS_URL=redis://192.168.68.51:6379
+      - OPENAI_API_KEY=openai-api-key
+    depends_on:
+      - redis
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongo:/data/db

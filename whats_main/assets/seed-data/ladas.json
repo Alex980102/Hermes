@@ -1,0 +1,810 @@
+[
+  {
+    "ciudad": "Monterrey",
+    "lada": "81"
+  },
+  {
+    "ciudad": "Matamoros",
+    "lada": "868"
+  },
+  {
+    "ciudad": "Celaya",
+    "lada": "461"
+  },
+  {
+    "ciudad": "Veracruz",
+    "lada": "229"
+  },
+  {
+    "ciudad": "Cabo San Lucas",
+    "lada": "624"
+  },
+  {
+    "ciudad": "Cabo San Lucas",
+    "lada": "624"
+  },
+  {
+    "ciudad": "Mochitlán",
+    "lada": "754"
+  },
+  {
+    "ciudad": "Montemorelos",
+    "lada": "826"
+  },
+  {
+    "ciudad": "Ocotlán",
+    "lada": "392"
+  },
+  {
+    "ciudad": "Petatlán",
+    "lada": "758"
+  },
+  {
+    "ciudad": "Rosarito",
+    "lada": "661"
+  },
+  {
+    "ciudad": "Tuxtepec",
+    "lada": "287"
+  },
+  {
+    "ciudad": "Ciudad Altamirano",
+    "lada": "767"
+  },
+  {
+    "ciudad": "San Luis Río Colorado",
+    "lada": "653"
+  },
+  {
+    "ciudad": "Jalapa",
+    "lada": "228"
+  },
+  {
+    "ciudad": "La Barca",
+    "lada": "393"
+  },
+  {
+    "ciudad": "Acaponeta",
+    "lada": "325"
+  },
+  {
+    "ciudad": "Campeche",
+    "lada": "981"
+  },
+  {
+    "ciudad": "Ciudad Hidalgo",
+    "lada": "786"
+  },
+  {
+    "ciudad": "Bahia de Huatulco",
+    "lada": "958"
+  },
+  {
+    "ciudad": "Cadereyta",
+    "lada": "828"
+  },
+  {
+    "ciudad": "Ciudad Sahagún",
+    "lada": "791"
+  },
+  {
+    "ciudad": "Tecuala",
+    "lada": "389"
+  },
+  {
+    "ciudad": "Tlaxcala",
+    "lada": "246"
+  },
+  {
+    "ciudad": "Valle De Bravo",
+    "lada": "726"
+  },
+  {
+    "ciudad": "Villahermosa",
+    "lada": "993"
+  },
+  {
+    "ciudad": "Huatabampo",
+    "lada": "647"
+  },
+  {
+    "ciudad": "Guadalupe Victoria",
+    "lada": "676"
+  },
+  {
+    "ciudad": "Guaymas",
+    "lada": "622"
+  },
+  {
+    "ciudad": "Aguascalientes",
+    "lada": "449"
+  },
+  {
+    "ciudad": "Amecameca",
+    "lada": "597"
+  },
+  {
+    "ciudad": "Ciudad Acuña",
+    "lada": "877"
+  },
+  {
+    "ciudad": "Campeche",
+    "lada": "981"
+  },
+  {
+    "ciudad": "Ciudad Delicias",
+    "lada": "639"
+  },
+  {
+    "ciudad": "Ciudad Guzmán",
+    "lada": "341"
+  },
+  {
+    "ciudad": "Puerto Vallarta",
+    "lada": "322"
+  },
+  {
+    "ciudad": "Puruandiro",
+    "lada": "438"
+  },
+  {
+    "ciudad": "Tala",
+    "lada": "384"
+  },
+  {
+    "ciudad": "Tenancingo",
+    "lada": "714"
+  },
+  {
+    "ciudad": "Tlapa De Comonfort",
+    "lada": "757"
+  },
+  {
+    "ciudad": "Tuxtla Gutiérrez",
+    "lada": "961"
+  },
+  {
+    "ciudad": "Zumpango",
+    "lada": "591"
+  },
+  {
+    "ciudad": "Ciudad Cuauhtémoc",
+    "lada": "625"
+  },
+  {
+    "ciudad": "Tepatitlán de Morelos",
+    "lada": "378"
+  },
+  {
+    "ciudad": "Juchitán",
+    "lada": "971"
+  },
+  {
+    "ciudad": "León",
+    "lada": "477"
+  },
+  {
+    "ciudad": "Tampico",
+    "lada": "833"
+  },
+  {
+    "ciudad": "Cananea",
+    "lada": "645"
+  },
+  {
+    "ciudad": "Ciudad Acuña",
+    "lada": "877"
+  },
+  {
+    "ciudad": "Salvatierra",
+    "lada": "466"
+  },
+  {
+    "ciudad": "San Cristóbal de las Casas",
+    "lada": "967"
+  },
+  {
+    "ciudad": "San Fernando",
+    "lada": "841"
+  },
+  {
+    "ciudad": "Ciudad Obregón",
+    "lada": "644"
+  },
+  {
+    "ciudad": "Fresnillo",
+    "lada": "493"
+  },
+  {
+    "ciudad": "Guerrero Negro",
+    "lada": "615"
+  },
+  {
+    "ciudad": "Los Mochis",
+    "lada": "668"
+  },
+  {
+    "ciudad": "La Paz",
+    "lada": "612"
+  },
+  {
+    "ciudad": "Ciudad del Carmen",
+    "lada": "938"
+  },
+  {
+    "ciudad": "Guanajuato",
+    "lada": "473"
+  },
+  {
+    "ciudad": "Querétaro",
+    "lada": "442"
+  },
+  {
+    "ciudad": "Ciudad Victoria",
+    "lada": "834"
+  },
+  {
+    "ciudad": "Acaponeta",
+    "lada": "325"
+  },
+  {
+    "ciudad": "Agua Prieta",
+    "lada": "633"
+  },
+  {
+    "ciudad": "Chilapa",
+    "lada": "756"
+  },
+  {
+    "ciudad": "Chilpancingo",
+    "lada": "747"
+  },
+  {
+    "ciudad": "Ciudad Camargo",
+    "lada": "648"
+  },
+  {
+    "ciudad": "Ciudad Constitución",
+    "lada": "613"
+  },
+  {
+    "ciudad": "Orizaba",
+    "lada": "272"
+  },
+  {
+    "ciudad": "Piedras Negras",
+    "lada": "878"
+  },
+  {
+    "ciudad": "Santa Rosalía",
+    "lada": "891"
+  },
+  {
+    "ciudad": "Taxco",
+    "lada": "762"
+  },
+  {
+    "ciudad": "Texcoco",
+    "lada": "595"
+  },
+  {
+    "ciudad": "Tula",
+    "lada": "773"
+  },
+  {
+    "ciudad": "Izúcar de Matamoros",
+    "lada": "243"
+  },
+  {
+    "ciudad": "Monclova",
+    "lada": "866"
+  },
+  {
+    "ciudad": "Nuevo Casa Grandes",
+    "lada": "636"
+  },
+  {
+    "ciudad": "Cuernavaca",
+    "lada": "777"
+  },
+  {
+    "ciudad": "Ixtapan",
+    "lada": "721"
+  },
+  {
+    "ciudad": "Lerma",
+    "lada": "728"
+  },
+  {
+    "ciudad": "Irapuato",
+    "lada": "462"
+  },
+  {
+    "ciudad": "San Luis Potosí",
+    "lada": "444"
+  },
+  {
+    "ciudad": "Tepíc",
+    "lada": "311"
+  },
+  {
+    "ciudad": "Chihuahua",
+    "lada": "614"
+  },
+  {
+    "ciudad": "Amecameca",
+    "lada": "597"
+  },
+  {
+    "ciudad": "Chetumal",
+    "lada": "983"
+  },
+  {
+    "ciudad": "Magdalena",
+    "lada": "632"
+  },
+  {
+    "ciudad": "Morelia",
+    "lada": "443"
+  },
+  {
+    "ciudad": "Puerto Peñasco",
+    "lada": "638"
+  },
+  {
+    "ciudad": "San Juan del Río",
+    "lada": "427"
+  },
+  {
+    "ciudad": "Zamora",
+    "lada": "351"
+  },
+  {
+    "ciudad": "Encarnación de Díaz",
+    "lada": "475"
+  },
+  {
+    "ciudad": "Ciudad Guzmán",
+    "lada": "341"
+  },
+  {
+    "ciudad": "Ciudad Sahagún",
+    "lada": "791"
+  },
+  {
+    "ciudad": "Colima",
+    "lada": "312"
+  },
+  {
+    "ciudad": "Martínez de la Torre",
+    "lada": "232"
+  },
+  {
+    "ciudad": "Minatitlán",
+    "lada": "922"
+  },
+  {
+    "ciudad": "Manzanillo",
+    "lada": "314"
+  },
+  {
+    "ciudad": "Zacatecas",
+    "lada": "492"
+  },
+  {
+    "ciudad": "Guamuchil",
+    "lada": "673"
+  },
+  {
+    "ciudad": "Oaxaca",
+    "lada": "951"
+  },
+  {
+    "ciudad": "Tapachula",
+    "lada": "962"
+  },
+  {
+    "ciudad": "Cuidad Valles",
+    "lada": "481"
+  },
+  {
+    "ciudad": "Poza Rica",
+    "lada": "782"
+  },
+  {
+    "ciudad": "Tizayuca",
+    "lada": "779"
+  },
+  {
+    "ciudad": "Arcelia",
+    "lada": "732"
+  },
+  {
+    "ciudad": "Ciudad Constitución",
+    "lada": "613"
+  },
+  {
+    "ciudad": "Ciudad Delicias",
+    "lada": "639"
+  },
+  {
+    "ciudad": "Ciudad Mante",
+    "lada": "831"
+  },
+  {
+    "ciudad": "Mexicali",
+    "lada": "686"
+  },
+  {
+    "ciudad": "Navojoa",
+    "lada": "642"
+  },
+  {
+    "ciudad": "Nuevo Laredo",
+    "lada": "867"
+  },
+  {
+    "ciudad": "Tuxpan",
+    "lada": "783"
+  },
+  {
+    "ciudad": "Villaflores",
+    "lada": "965"
+  },
+  {
+    "ciudad": "Córdoba",
+    "lada": "271"
+  },
+  {
+    "ciudad": "Huitzuco",
+    "lada": "727"
+  },
+  {
+    "ciudad": "Cozumel",
+    "lada": "987"
+  },
+  {
+    "ciudad": "Autlán",
+    "lada": "317"
+  },
+  {
+    "ciudad": "Guadalajara",
+    "lada": "33"
+  },
+  {
+    "ciudad": "Ciudad de México",
+    "lada": "55"
+  },
+  {
+    "ciudad": "Silao",
+    "lada": "472"
+  },
+  {
+    "ciudad": "Saltillo",
+    "lada": "844"
+  },
+  {
+    "ciudad": "Agua Prieta",
+    "lada": "633"
+  },
+  {
+    "ciudad": "Bahia de Huatulco",
+    "lada": "958"
+  },
+  {
+    "ciudad": "Autlán",
+    "lada": "317"
+  },
+  {
+    "ciudad": "Cancún",
+    "lada": "998"
+  },
+  {
+    "ciudad": "Ciudad Mante",
+    "lada": "831"
+  },
+  {
+    "ciudad": "San José de Gracia",
+    "lada": "381"
+  },
+  {
+    "ciudad": "Tijuana",
+    "lada": "664"
+  },
+  {
+    "ciudad": "Tulancingo",
+    "lada": "775"
+  },
+  {
+    "ciudad": "Coatzacoalcos",
+    "lada": "921"
+  },
+  {
+    "ciudad": "Nacozari",
+    "lada": "634"
+  },
+  {
+    "ciudad": "Pachuca",
+    "lada": "771"
+  },
+  {
+    "ciudad": "Salamanca",
+    "lada": "464"
+  },
+  {
+    "ciudad": "Toluca",
+    "lada": "722"
+  },
+  {
+    "ciudad": "Cancún",
+    "lada": "998"
+  },
+  {
+    "ciudad": "Veracruz",
+    "lada": "229"
+  },
+  {
+    "ciudad": "Chihuahua",
+    "lada": "614"
+  },
+  {
+    "ciudad": "Ciudad Juárez",
+    "lada": "656"
+  },
+  {
+    "ciudad": "Los Reyes",
+    "lada": "354"
+  },
+  {
+    "ciudad": "Sahuayo",
+    "lada": "353"
+  },
+  {
+    "ciudad": "Tequila",
+    "lada": "374"
+  },
+  {
+    "ciudad": "Uruapan",
+    "lada": "452"
+  },
+  {
+    "ciudad": "Zacapu",
+    "lada": "436"
+  },
+  {
+    "ciudad": "Parral",
+    "lada": "627"
+  },
+  {
+    "ciudad": "Hermosillo",
+    "lada": "662"
+  },
+  {
+    "ciudad": "Iguala",
+    "lada": "733"
+  },
+  {
+    "ciudad": "Lagos De Moreno",
+    "lada": "474"
+  },
+  {
+    "ciudad": "Arcelia",
+    "lada": "732"
+  },
+  {
+    "ciudad": "Ciudad Hidalgo",
+    "lada": "786"
+  },
+  {
+    "ciudad": "Colima",
+    "lada": "312"
+  },
+  {
+    "ciudad": "Pénjamo",
+    "lada": "469"
+  },
+  {
+    "ciudad": "Río Verde",
+    "lada": "487"
+  },
+  {
+    "ciudad": "Tehuacán",
+    "lada": "238"
+  },
+  {
+    "ciudad": "Zihuatanejo",
+    "lada": "755"
+  },
+  {
+    "ciudad": "Culiacán",
+    "lada": "667"
+  },
+  {
+    "ciudad": "Matehuala",
+    "lada": "488"
+  },
+  {
+    "ciudad": "Jojutla",
+    "lada": "734"
+  },
+  {
+    "ciudad": "Reynosa",
+    "lada": "899"
+  },
+  {
+    "ciudad": "Sabinas",
+    "lada": "861"
+  },
+  {
+    "ciudad": "Atlixco",
+    "lada": "244"
+  },
+  {
+    "ciudad": "Chetumal",
+    "lada": "983"
+  },
+  {
+    "ciudad": "Chilapa",
+    "lada": "756"
+  },
+  {
+    "ciudad": "Chilpancingo",
+    "lada": "747"
+  },
+  {
+    "ciudad": "Manzanillo",
+    "lada": "314"
+  },
+  {
+    "ciudad": "Mazatlán",
+    "lada": "669"
+  },
+  {
+    "ciudad": "San Miguel de Allende",
+    "lada": "415"
+  },
+  {
+    "ciudad": "Tanhuato",
+    "lada": "356"
+  },
+  {
+    "ciudad": "Durango",
+    "lada": "618"
+  },
+  {
+    "ciudad": "Teziutlan",
+    "lada": "231"
+  },
+  {
+    "ciudad": "Zitacuaro",
+    "lada": "715"
+  },
+  {
+    "ciudad": "Jalpa",
+    "lada": "463"
+  },
+  {
+    "ciudad": "Jerez de García Salinas",
+    "lada": "494"
+  },
+  {
+    "ciudad": "Parras de La fuente",
+    "lada": "842"
+  },
+  {
+    "ciudad": "Acapulco",
+    "lada": "744"
+  },
+  {
+    "ciudad": "Allende",
+    "lada": "862"
+  },
+  {
+    "ciudad": "Apatzingán",
+    "lada": "453"
+  },
+  {
+    "ciudad": "Guasave",
+    "lada": "687"
+  },
+  {
+    "ciudad": "San Andrés Tuxtla",
+    "lada": "294"
+  },
+  {
+    "ciudad": "Tecomán",
+    "lada": "313"
+  },
+  {
+    "ciudad": "Zinapecuaro",
+    "lada": "451"
+  },
+  {
+    "ciudad": "Cuautla",
+    "lada": "735"
+  },
+  {
+    "ciudad": "Torreón",
+    "lada": "871"
+  },
+  {
+    "ciudad": "Cadereyta",
+    "lada": "828"
+  },
+  {
+    "ciudad": "Ciudad Juárez",
+    "lada": "656"
+  },
+  {
+    "ciudad": "Cananea",
+    "lada": "645"
+  },
+  {
+    "ciudad": "Nogales",
+    "lada": "631"
+  },
+  {
+    "ciudad": "Ojinaga",
+    "lada": "626"
+  },
+  {
+    "ciudad": "Tecate",
+    "lada": "665"
+  },
+  {
+    "ciudad": "Huetamo",
+    "lada": "435"
+  },
+  {
+    "ciudad": "Puebla",
+    "lada": "222"
+  },
+  {
+    "ciudad": "Ciudad Camargo",
+    "lada": "648"
+  },
+  {
+    "ciudad": "Mérida",
+    "lada": "999"
+  },
+  {
+    "ciudad": "Santiago Tianguistenco",
+    "lada": "713"
+  },
+  {
+    "ciudad": "Teloloapan",
+    "lada": "736"
+  },
+  {
+    "ciudad": "Santiago Ixcuintla",
+    "lada": "323"
+  },
+  {
+    "ciudad": "Ensenada",
+    "lada": "646"
+  },
+  {
+    "ciudad": "Estancia de los López",
+    "lada": "324"
+  },
+  {
+    "ciudad": "Huimanguillo",
+    "lada": "917"
+  },
+  {
+    "ciudad": "La Piedad",
+    "lada": "352"
+  },
+  {
+    "ciudad": "Lerdo De Tejada",
+    "lada": "284"
+  },
+  {
+    "ciudad": "Puebla",
+    "lada": "221"
+  },
+  {
+    "ciudad": "CDMX",
+    "lada": "56"
+  }
+]
