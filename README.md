@@ -1,3 +1,6 @@
+![Stable Diffusion Image about Hermes AI](https://i.imgur.com/qrFGhPX.png)
+
+
 ## Índice
 
 ### [1.-Archivos a editar](#archivos-a-editar)
