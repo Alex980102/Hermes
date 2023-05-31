@@ -1,4 +1,4 @@
-![Stable Diffusion Image about Hermes AI](https://i.imgur.com/qrFGhPX.png){ width=300px }
+![Stable Diffusion Image about Hermes AI](https://i.imgur.com/qrFGhPX.png){ width=300px height=200px }
 
 
 ## Índice
