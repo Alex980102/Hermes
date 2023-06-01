@@ -38,7 +38,7 @@ export class BotprocessService {
     const name = `api-${port}`;
     const my_pat = `${this.path}/${name}`;
     const _botProcessId = uuid();
-    const _messengerEnvFile = `PROMPT=${prompt}\nESCLAVOPORT=${port}\nBOT_PROCESS_ID=${_botProcessId}\nMAIN_URL=http://localhost:${process.env.PORT}\nCREATE_MESSENGER_URL=/api/messenger/create\nUPDATE_BOT_PROCESS_URL=/api/botprocess`;
+    const _messengerEnvFile = `API_URL=http://localhost:8000\nPROMPT=${prompt}\nESCLAVOPORT=${port}\nBOT_PROCESS_ID=${_botProcessId}\nMAIN_URL=http://localhost:${process.env.PORT}\nCREATE_MESSENGER_URL=/api/messenger/create\nUPDATE_BOT_PROCESS_URL=/api/botprocess`;
     console.log(_botProcessId);
     // Local variables
 

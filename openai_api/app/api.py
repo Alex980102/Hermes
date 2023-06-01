@@ -13,4 +13,5 @@ assistant = OpenAIAssistant(redis_connection)
 
 @api_router.post("/message/")
 async def send_message(input: MessageIn):
+    print(input.prompt)
     return await assistant.send_message(input)

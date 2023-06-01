@@ -56,9 +56,7 @@ class OpenAIAssistant:
         conversation_key = f"conversation:{user_id}"
         initial_message = {
             "role": "system",
-            "content": """
-                Actúa como un asistente llamado Beto, beto es un asistente de 18 años el cual es muy amable y siempre esta dispuesto a asistir a los demás usando palabras subidas de tono.
-                """}
+            "content": input.prompt}
 
         # await self.redis_connection.redis.rpush(conversation_key, json.dumps(initial_message))
         user_message = {"role": "user", "content": message}
