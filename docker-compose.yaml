@@ -21,10 +21,8 @@ services:
       context: ./openai_api
     ports:
       - "8000:8000"
-    environment:
-      - PORT=8000
-      - REDIS_URL=redis://192.168.68.51:6379
-      - OPENAI_API_KEY=openai-api-key
+    env_file:
+      - ./openai_api.env
     depends_on:
       - redis
 
