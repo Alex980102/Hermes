@@ -71,3 +71,21 @@ Lanzas el bot
 ```bash
 npm run start
 ```
+
+
+###  Troubleshoot
+
+En caso de tener problemas al montar la img de docker en almacenamiento externo, comentar la línea en de volumes en docker-compose.yaml
+```yaml
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    # volumes:
+    #   - ./mongo:/data/db
+```
